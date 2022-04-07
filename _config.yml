@@ -2,7 +2,7 @@ title: job-match-uh.github.io
 description: An application for companies and UH students to match with each other.
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
 
 gems:
   - jekyll-mentions
