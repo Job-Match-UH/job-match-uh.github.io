@@ -2,7 +2,7 @@ title: JobMatchUH
 description: An application for companies and UH students to match with each other.
 google_analytics:
 show_downloads: true
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
