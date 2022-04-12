@@ -125,4 +125,4 @@ Click on [this link here](https://github.com/Job-Match-UH/source/projects/1) to 
 
 ### M2 Project Page
 
-Click on [this link here]() to view our Milestone 2 (M2) Project Page. This shows the issues that were completed for the milestone at this time. 
+Click on [this link here](https://github.com/Job-Match-UH/source/projects/2) to view our Milestone 2 (M2) Project Page. This shows the issues that were completed for the milestone at this time. 
