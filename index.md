@@ -4,6 +4,11 @@
 * [Our Approach](#our-approach)
 * [User Guide](#user-guide)
 * [Our Team](#our-team)
+* [Team Contract Google Doc](#team-contract)
+* [Deployment](#deployment)
+* [State of Project](#state-of-project)
+* [M1 Project Page](#m1-project-page)
+* [M2 Project Page](#m2-project-page)
 
 ## Overview
 
@@ -103,6 +108,15 @@ Mockup: <img class="ui large image" src="images/companyPFP.png">
 
 Company Connector is designed and implemented by Larissa Tsai, Michelle Leano, Eda Cadiena, Gaila Galano, Cameron Arakaki.
 
+### Team Contract
 [Team Contract Google Doc](https://docs.google.com/document/d/1xsRcfiE0334OsBBOehHa-V0ejjmF4cmbaKmLs2_oX2E/edit?usp=sharing)
 
+### Deployment
 
+[insert link here]()
+
+### State of Project
+
+### M1 Project Page
+
+### M2 Project Page
