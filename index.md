@@ -119,6 +119,14 @@ Company Connector is designed and implemented by Larissa Tsai, Michelle Leano, E
 
 (insert images displaying state of project)
 
+### Landing Page
+
+<img class="ui large image" src="images/landingPage.png">
+
+### Sign in / Sign up Page
+
+<img class="ui large image" src="images/signin-signup.png">
+
 ### Create Student Profile
 
 <img class="ui large image" src="images/createStudentProfile.png">
