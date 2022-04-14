@@ -129,7 +129,7 @@ Company Connector is designed and implemented by Larissa Tsai, Michelle Leano, E
 
 ### Admin home page
 
-<img class="ui large image" src="images/admineHomePage.png">
+<img class="ui large image" src="images/adminHomePage.png">
 
 ### Student Profile
 
