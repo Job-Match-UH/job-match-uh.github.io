@@ -119,6 +119,14 @@ Company Connector is designed and implemented by Larissa Tsai, Michelle Leano, E
 
 (insert images displaying state of project)
 
+### Student Profile
+
+<img class="ui large image" src="images/student_profile.png">
+
+### Company Profile
+
+<img class="ui large image" src="images/company_profile.png">
+
 ### M1 Project Page
 
 Click on [this link here](https://github.com/Job-Match-UH/source/projects/1) to view our Milestone 1 (M1) Project Page. This shows the issues that were completed for the milestone at this time. 
