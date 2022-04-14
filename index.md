@@ -113,7 +113,7 @@ Company Connector is designed and implemented by Larissa Tsai, Michelle Leano, E
 
 ### Deployment
 
-[http://147.182.226.94]()
+[Click here](http://147.182.226.94)
 
 ### Current State of Project
 
