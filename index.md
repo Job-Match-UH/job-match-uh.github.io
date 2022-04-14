@@ -125,7 +125,7 @@ Company Connector is designed and implemented by Larissa Tsai, Michelle Leano, E
 
 ### Sign in / Sign up Page
 
-<img class="ui large image" src="images/signin-signup.png">
+<img class="ui large image" src="images/singin-signup.png">
 
 ### Create Student Profile
 
