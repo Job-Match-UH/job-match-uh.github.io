@@ -6,7 +6,7 @@
 * [Our Team](#our-team)
 * [Team Contract Google Doc](#team-contract)
 * [Deployment](#deployment)
-* [Current State of Project](#state-of-project)
+* [Current State of Project](#current-state-of-project)
 * [M1 Project Page](#m1-project-page)
 * [M2 Project Page](#m2-project-page)
 
@@ -117,7 +117,7 @@ Company Connector is designed and implemented by Larissa Tsai, Michelle Leano, E
 
 ### Current State of Project
 
-(insert images displaying state of project)
+This is what our Project currently looks like. For now we mainly focused on getting our pages up in one cohesive area. We will work on modifying the layout in accordance to the Theme we discussed as a team, and then move onto functionality. 
 
 ### Landing Page
 
