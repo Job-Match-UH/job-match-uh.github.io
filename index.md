@@ -141,6 +141,8 @@ Company Connector is designed and implemented by Larissa Tsai, Michelle Leano, E
 
 ### Company Home Page
 
+<img class="ui large image" src="images/companyhomemockup.png">
+
 ### Admin home page
 
 <img class="ui large image" src="images/adminHomePage.png">
