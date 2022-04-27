@@ -55,7 +55,7 @@ Upon entering the site, users can:
 * Login or Sign Up
 * Read an About Us
 
-Mockup: <img class="ui large image" src="images/landing.png">
+Mockup: <img class="ui large image" src="images/landingPage.png">
 
 ### Sign in / Sign up Page
 
