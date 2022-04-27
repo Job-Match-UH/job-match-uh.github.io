@@ -116,7 +116,7 @@ Company Connector is designed and implemented by Larissa Tsai, Michelle Leano, E
 
 ### Deployment
 
-[Click here](http://143.244.183.134)
+[Click here](https://jobmatchuh.xyz)
 
 ### Current State of Project
 
