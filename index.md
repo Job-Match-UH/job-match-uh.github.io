@@ -1,3 +1,5 @@
+![ci-badge](https://github.com/Job-Match-UH/source/workflows/ci-source/badge.svg)
+
 ## Table of contents
 
 * [Overview](#overview)
