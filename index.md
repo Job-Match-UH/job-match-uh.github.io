@@ -1,4 +1,4 @@
-![ci-badge](https://github.com/Job-Match-UH/source/workflows/ci-source/badge.svg)
+![ci-badge](https://github.com/Job-Match-UH/source/workflows/ci-Job-Match-UH/badge.svg)
 
 ## Table of contents
 
