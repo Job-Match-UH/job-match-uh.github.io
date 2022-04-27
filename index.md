@@ -120,7 +120,7 @@ Company Connector is designed and implemented by Larissa Tsai, Michelle Leano, E
 
 ### Current State of Project
 
-This is what our Project currently looks like. For now we mainly focused on getting our pages up in one cohesive area. We will work on modifying the layout in accordance to the Theme we discussed as a team, and then move onto functionality. 
+This is what our Project currently looks like. For now, we mainly focused on fixing the details of our layout so that users, both companies and students, are able to find each other. Finally, we slowly implemented functionality so that users can login or create an account according to their role (student or company). Further functionailty will be implemented in the next milestone.
 
 ### Landing Page
 
