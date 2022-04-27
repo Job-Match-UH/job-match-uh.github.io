@@ -122,39 +122,43 @@ This is what our Project currently looks like. For now we mainly focused on gett
 
 ### Landing Page
 
-<img class="ui large image" src="images/landingPage.png">
+<img class="ui large image" src="images/landing.png">
 
 ### Sign in / Sign up Page
 
-<img class="ui large image" src="images/singin-signup.png">
+<img class="ui large image" src="images/signin-signup.png">
 
 ### Create Student Profile
 
-<img class="ui large image" src="images/createStudentProfile.png">
+<img class="ui large image" src="images/createstudentprofile.png">
 
 ### Create Company Profile
 
-<img class="ui large image" src="images/createCompanyProfile.png">
+<img class="ui large image" src="images/createcompanyprofile.png">
 
 ### Student Home Page
 
-<img class="ui large image" src="images/studentHomePage.png">
+<img class="ui large image" src="images/studenthomepage.png">
 
 ### Company Home Page
 
-<img class="ui large image" src="images/companyhomemockup.png">
+<img class="ui large image" src="images/companyhomepage.png">
 
 ### Admin home page
 
-<img class="ui large image" src="images/adminHomePage.png">
+<img class="ui large image" src="images/adminhomepage.png">
 
 ### Student Profile
 
-<img class="ui large image" src="images/student_profile.png">
+<img class="ui large image" src="images/studentprofilepage.png">
 
 ### Company Profile
 
-<img class="ui large image" src="images/company_profile.png">
+<img class="ui large image" src="images/companyprofilepage.png">
+
+### Job Posting page
+
+<img class="ui large image" src="images/jobpostingspage.png">
 
 ### M1 Project Page
 
