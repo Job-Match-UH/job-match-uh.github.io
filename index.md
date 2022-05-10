@@ -165,6 +165,9 @@ This is what our Project currently looks like. For now, we mainly focused on fix
 ## Community Feedback
 We asked five UH community members for their opinions on our app. Here's what they had to say:
 
+
+
+
 ### M1 Project Page
 
 Click on [this link here](https://github.com/Job-Match-UH/source/projects/1) to view our Milestone 1 (M1) Project Page. This shows the issues that were completed for the milestone at this time. 
