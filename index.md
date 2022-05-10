@@ -162,6 +162,9 @@ This is what our Project currently looks like. For now, we mainly focused on fix
 
 <img class="ui large image" src="images/jobpostingspage.png">
 
+## Community Feedback
+We asked five UH community members for their opinions on our app. Here's what they had to say:
+
 ### M1 Project Page
 
 Click on [this link here](https://github.com/Job-Match-UH/source/projects/1) to view our Milestone 1 (M1) Project Page. This shows the issues that were completed for the milestone at this time. 
@@ -174,5 +177,3 @@ Click on [this link here](https://github.com/Job-Match-UH/source/projects/2) to 
 
 Click on [this link here](https://github.com/Job-Match-UH/source/projects/3) to view out Milestone 3 (M3) Project Page. This shows the issues taht were completed for the milestone at this time.
 
-## Community Feedback
-We asked five UH community members for their opinions on our app. Here's what they had to say:
