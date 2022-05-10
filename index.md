@@ -173,3 +173,5 @@ Click on [this link here](https://github.com/Job-Match-UH/source/projects/2) to 
 ### M3 Project Page
 
 Click on [this link here](https://github.com/Job-Match-UH/source/projects/3) to view out Milestone 3 (M3) Project Page. This shows the issues taht were completed for the milestone at this time.
+
+## Community Feedback
