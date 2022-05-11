@@ -165,8 +165,8 @@ This is what our Project currently looks like. For now, we mainly focused on fix
 ## Community Feedback
 We asked five UH community members for their opinions on our app. Here's what they had to say:
 
-
-
+### Leititia
+  *"The app's font is basic. Visually, the design could use more pictures, more color, and more styling. The signup process felt incomplete and was not user friendly, needed to be easier."*
 
 ### M1 Project Page
 
