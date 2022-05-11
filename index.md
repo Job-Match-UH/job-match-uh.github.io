@@ -130,6 +130,14 @@ This is what our Project currently looks like. For now, we mainly focused on fix
 
 <img class="ui large image" src="images/login-final.png">
 
+### Register Student Account Page
+
+<img class="ui large image" src="images/register-student-final.png">
+
+### Register Company Account Page
+
+<img class="ui large image" src="images/resgister-company-final.png">
+
 ### Create Student Profile
 
 <img class="ui large image" src="images/create-student-profile-final.png">
