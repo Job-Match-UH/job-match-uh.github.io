@@ -264,7 +264,7 @@ Additionally, I personally like to work on smaller windows so I suggest making i
 - Was confused when I had to put my interest again under the View My Matches when I already did so when I created my profile
 - Company's contact info: a hyperlink that directs you to the company's email would be a nice feature
 
-### Dalten Pang, Mechanical Engineering, said,
+### Dalten Pang, Mechanical Engineering and Computer Science, said,
   *"The website works for the most part, with some minor hiccups here and there. The main thing was some of the tags breaking the website, from both account types - company and individual. An example is the Art tag when searching from the company perspective broke the website. With tags there was also the possibility to have duplicate interest tags if the same tags are added at separate times. There's also the minor inconvenience that the website logs you out after creating your profile, you'd ideally be put into the main page.*
 
   *Some small UI gripes including the misalignment of descriptions and headers in the about company page. The website of the companies leaves a gap between the name of the company and the website when searching from the Individual's perspective. The website link also sometimes sticks outside the container, as with Grace Pacific LCC. When adding phone numbers it would be a nice thing if it auto formatted.*
