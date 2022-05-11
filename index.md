@@ -36,7 +36,7 @@ Instead of sending out announcements each year, a company can create a page in t
 
 Admins can monitor the site for inappropriate content and create new categories of skills and geographic locations.
 
-## Developer Guide
+# Developer Guide
 
 The following will be used to create the app:
 
@@ -45,7 +45,47 @@ React for component-based UI implementation and routing.
 Semantic UI React CSS Framework for UI design.
 Uniforms for React and Semantic UI-based form design and display.
 
+## Backend System
 
+This application was built on meteor-application-template-react.  For information regarding this template, please refer to [https://ics-software-engineering.github.io/meteor-application-template-react/](https://ics-software-engineering.github.io/meteor-application-template-react/)
+
+
+## Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, [download a copy of Job Match'UH](https://github.com/Job-Match-UH/source).
+
+Third, cd into the app directory and install the required libraries:
+
+```
+cd /path/to/peer-review-finder
+cd app
+meteor npm install
+```
+
+
+## Running the system
+
+Once the libraries are installed, you can run the application by invoking:
+
+```
+meteor npm run start
+```
+
+
+## Viewing the running app
+
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).
+
+
+## ESLint
+
+You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
+
+```
+meteor npm run lint
+```
 
 ## User Guide
 
