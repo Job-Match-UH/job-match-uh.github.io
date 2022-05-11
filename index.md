@@ -36,19 +36,11 @@ Instead of sending out announcements each year, a company can create a page in t
 
 Admins can monitor the site for inappropriate content and create new categories of skills and geographic locations.
 
-# Developer Guide
-
-The following will be used to create the app:
-
-Meteor for Javascript-based implementation of client and server code.
-React for component-based UI implementation and routing.
-Semantic UI React CSS Framework for UI design.
-Uniforms for React and Semantic UI-based form design and display.
+# Developer's Guide
 
 ## Backend System
 
 This application was built on meteor-application-template-react.  For information regarding this template, please refer to [https://ics-software-engineering.github.io/meteor-application-template-react/](https://ics-software-engineering.github.io/meteor-application-template-react/)
-
 
 ## Installation
 
@@ -56,37 +48,86 @@ First, [install Meteor](https://www.meteor.com/install).
 
 Second, [download a copy of Job Match'UH](https://github.com/Job-Match-UH/source).
 
-Third, cd into the app directory and install the required libraries:
+Third, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system.  Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
+
+Fourth, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
 
 ```
-cd /path/to/peer-review-finder
-cd app
-meteor npm install
+$ meteor npm install
 ```
-
 
 ## Running the system
 
-Once the libraries are installed, you can run the application by invoking:
+Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/Job-Match-UH/source/blob/main/app/package.json):
+
+```
+$ meteor npm run start
+```
+
+The first time you run the app, it will create some default users and data. Here is the output:
 
 ```
 meteor npm run start
+
+> meteor-application-template-react@ start C:\Users\gaila\github\gailag\WOD\source\app
+> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
+
+[[[[[ C:\Users\gaila\github\gailag\WOD\source\app ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+I20220510-20:21:21.163(-10)? Creating the default user(s)
+I20220510-20:21:21.174(-10)?   Creating user admin@foo.com.
+I20220510-20:21:21.175(-10)?   admin@foo.com : admin
+...
+=> Started your app.
+
+=> App running at: http://localhost:3000/
 ```
 
 
-## Viewing the running app
+### Note regarding "bcrypt warning":
 
-If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).
+You might also get the following message when you run this application:
 
+```
+Note: you are using a pure-JavaScript implementation of bcrypt.
+While this implementation will work correctly, it is known to be
+approximately three times slower than the native implementation.
+In order to use the native implementation instead, run
 
-## ESLint
+  meteor npm install --save bcrypt
+
+in the root directory of your application.
+```
+
+On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
+
+### Note regarding "MongoError: not master and slaveOk=false":
+
+Intermittently, you may see the following error message in the console when the system starts up:
+
+```
+MongoError: not master and slaveOk=false
+     at queryCallback (/Users/philipjohnson/.meteor/packages/npm-mongo/.3.1.1.1mmptof.qcqo++os+web.browser+web.browser.legacy+web.cordova/npm/node_modules/mongodb-core/lib/cursor.js:248:25)
+     at /Users/philipjohnson/.meteor/packages/npm-mongo/.3.1.1.1mmptof.qcqo++os+web.browser+web.browser.legacy+web.cordova/npm/node_modules/mongodb-core/lib/connection/pool.js:532:18
+     at _combinedTickCallback (internal/process/next_tick.js:131:7)
+     at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+```
+
+While irritating, this message appears to be harmless and [possibly related to a race condition between the development instance of Mongo and Meteor](https://github.com/meteor/meteor/issues/9026#issuecomment-330850366). By harmless, I mean that in most cases, the console goes on to display `App running at: http://localhost:3000/` and no problems occur during run time.
+
+### Viewing the running app
+
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).  You can login using the credentials in [settings.development.json](https://github.com/Job-Match-UH/source/blob/main/config/settings.development.json), or else register a new account.
+
+### ESLint
 
 You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
 
 ```
 meteor npm run lint
 ```
-
 ## User Guide
 
 These are the mockup pages that will be used for the final project.
@@ -214,13 +255,6 @@ We asked five UH community members for their opinions on our app. Here's what th
 #### Alysha Leano, Information Security and Assurance, said,
   *"I like this app. It did its job in matching the user to job suggestions so that in it of itself is a success. The program ask for a sufficient amount of information from the user in order to match them properly to potential employees. Everything but the interests seem a bit “unnecessary” in this elementary step of matching strictly to interests however. What is the rest of my information used for?
 Additionally, I personally like to work on smaller windows so I suggest making it more user friendly in that way. Resizing to a smaller window moved objects out of their spot or put them in a position that made them blocked by the footer. I think it’d also be helpful to include having a return button from search/edit. I have to use the back button in my browser to return to the previous which is kind of inconvenient. Adding on to that, I think it would be helpful that the site caches what the last searched interest was when returning from looking at companies/job positions. That way I won’t have to reclick my all my interests again. Or, the application can take the interests I’ve already inputted on my personal info and do an “apply my interests” type of checkbox/button."*
-
-#### Dalten Pang, Mechanical Engineering and Computer Science, said,
- *"The website works for the most part, with some minor hiccups here and there. The main thing was some of the tags breaking the website, from both account types - company and individual. An example is the Art tag when searching from the company perspective broke the website. With tags there was also the possibility to have duplicate interest tags if the same tags are added at separate times. There's also the minor inconvenience that the website logs you out after creating your profile, you'd ideally be put into the main page.* 
- 
- *Some small UI gripes including the misalignment of descriptions and headers in the about company page. The website of the companies leaves a gap between the name of the company and the website when searching from the Individual's perspective. The website link also sometimes sticks outside the container, as with Grace Pacific LCC. When adding phone numbers it would be a nice thing if it auto formatted.*
- 
- *Overall the website is nice and simple."*
 
 ### M1 Project Page
 
