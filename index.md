@@ -144,11 +144,11 @@ This is what our Project currently looks like. For now, we mainly focused on fix
 
 ### Company Home Page
 
-<img class="ui large image" src="images/view-company-profile-final.png">
+<img class="ui large image" src="images/view-company-home-page-final.png">
 
 ### Admin home page
 
-<img class="ui large image" src="images/adminhomepage.png">
+<img class="ui large image" src="images/admin-home-page-final.png">
 
 ### Student Profile
 
@@ -160,7 +160,7 @@ This is what our Project currently looks like. For now, we mainly focused on fix
 
 ### Job Posting page
 
-<img class="ui large image" src="images/jobpostingspage.png">
+<img class="ui large image" src="images/job-postings-final.png">
 
 ## Community Feedback
 We asked five UH community members for their opinions on our app. Here's what they had to say:
