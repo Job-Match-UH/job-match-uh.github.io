@@ -9,6 +9,7 @@
 * [Team Contract Google Doc](#team-contract)
 * [Deployment](#deployment)
 * [Current State of Project](#current-state-of-project)
+* [Community Feedback](#community-feedback)
 * [M1 Project Page](#m1-project-page)
 * [M2 Project Page](#m2-project-page)
 * [M3 Project Page](#m3-project-page)
@@ -107,13 +108,6 @@ The Company profile page allows companies to talk about their organization, post
 
 Mockup: <img class="ui large image" src="images/companyPFP.png">
 
-## Our Team
-
-Company Connector is designed and implemented by Larissa Tsai, Michelle Leano, Eda Cadiena, Gaila Galano, Cameron Arakaki.
-
-### Team Contract
-[Team Contract Google Doc](https://docs.google.com/document/d/1xsRcfiE0334OsBBOehHa-V0ejjmF4cmbaKmLs2_oX2E/edit?usp=sharing)
-
 ### Deployment
 
 [Click here](https://jobmatchuh.xyz)
@@ -192,3 +186,9 @@ Click on [this link here](https://github.com/Job-Match-UH/source/projects/2) to 
 
 Click on [this link here](https://github.com/Job-Match-UH/source/projects/3) to view out Milestone 3 (M3) Project Page. This shows the issues taht were completed for the milestone at this time.
 
+## Our Team
+
+Company Connector is designed and implemented by Michelle Leano, Eda Cadiena, Cameron Arakaki, Gaila Galano, Larissa Tsai.
+
+### Team Contract
+[Team Contract Google Doc](https://docs.google.com/document/d/1xsRcfiE0334OsBBOehHa-V0ejjmF4cmbaKmLs2_oX2E/edit?usp=sharing)
