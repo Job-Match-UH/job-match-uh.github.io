@@ -1,6 +1,6 @@
 ![ci-badge](https://github.com/Job-Match-UH/source/workflows/ci-Job-Match-UH/badge.svg)
 
-# Table of contents
+## Table of contents
 
 * [Overview](#overview)
 * [Our Approach](#our-approach)
@@ -15,7 +15,7 @@
 * [Our Team](#our-team)
 * [Team Contract Google Doc](#team-contract)
 
-# Overview
+## Overview
 
 ### The problem
 Many UH computer science and engineering students want to learn about internship and job opportunities, but currently they must wait until a company decides to visit the campus or send out some sort of announcement. There is no efficient way for students to understand the “landscape” of internship and job opportunities that might be available in the future, so they can prepare for them now.
@@ -36,7 +36,14 @@ Instead of sending out announcements each year, a company can create a page in t
 
 Admins can monitor the site for inappropriate content and create new categories of skills and geographic locations.
 
-# Developer's Guide
+# Developer Guide
+
+The following will be used to create the app:
+
+Meteor for Javascript-based implementation of client and server code.
+React for component-based UI implementation and routing.
+Semantic UI React CSS Framework for UI design.
+Uniforms for React and Semantic UI-based form design and display.
 
 ## Backend System
 
@@ -80,7 +87,7 @@ You can verify that the code obeys our coding standards by running ESLint over t
 meteor npm run lint
 ```
 
-# User Guide
+## User Guide
 
 These are the mockup pages that will be used for the final project.
 
@@ -201,8 +208,8 @@ This is the final version of Job Match'UH. We focused on implementing functional
 ## Community Feedback
 We asked five UH community members for their opinions on our app. Here's what they had to say:
 
-#### Leititia said,
-  *"The app's font is basic. Visually, the design could use more pictures, more color, and more styling. The signup process felt incomplete and was not user friendly, needed to be easier."*
+#### Leititia Le, Pre-Pharmaceutical said,
+  *"The app's font is basic. Visually, the design could use more pictures, more color, and more styling. The signup process felt incomplete and was not user friendly. Could not find the edit page without some help. For the profile you could include additional options such as skills and accolades. A job search bar at the top of the page might be a nice inclusion to search for specific companies or locations with the ability to filter differences between each. Also an inbox/messages area where you can send & receive drafts would be a nice touch."*
   
 #### Alysha Leano, Information Security and Assurance, said,
   *"I like this app. It did its job in matching the user to job suggestions so that in it of itself is a success. The program ask for a sufficient amount of information from the user in order to match them properly to potential employees. Everything but the interests seem a bit “unnecessary” in this elementary step of matching strictly to interests however. What is the rest of my information used for?
