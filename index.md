@@ -4,15 +4,16 @@
 
 * [Overview](#overview)
 * [Our Approach](#our-approach)
+* [Developer Guide](#developer-guide)
 * [User Guide](#user-guide)
-* [Our Team](#our-team)
-* [Team Contract Google Doc](#team-contract)
 * [Deployment](#deployment)
 * [Current State of Project](#current-state-of-project)
 * [Community Feedback](#community-feedback)
 * [M1 Project Page](#m1-project-page)
 * [M2 Project Page](#m2-project-page)
 * [M3 Project Page](#m3-project-page)
+* [Our Team](#our-team)
+* [Team Contract Google Doc](#team-contract)
 
 ## Overview
 
@@ -114,7 +115,7 @@ Mockup: <img class="ui large image" src="images/companyPFP.png">
 
 ### Current State of Project
 
-This is what our Project currently looks like. For now, we mainly focused on fixing the details of our layout so that users, both companies and students, are able to find each other. Finally, we slowly implemented functionality so that users can login or create an account according to their role (student or company). Further functionailty will be implemented in the next milestone.
+This is the final version of Job Match'UH. We focused on implementing functionality so that users can login, create an account according to their role (student or company), and matching students to compnies using interest filtering. Further styling details were implemented as much as possible to make the app more user friendly.
 
 ### Landing Page
 
