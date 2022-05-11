@@ -36,14 +36,7 @@ Instead of sending out announcements each year, a company can create a page in t
 
 Admins can monitor the site for inappropriate content and create new categories of skills and geographic locations.
 
-# Developer Guide
-
-The following will be used to create the app:
-
-Meteor for Javascript-based implementation of client and server code.
-React for component-based UI implementation and routing.
-Semantic UI React CSS Framework for UI design.
-Uniforms for React and Semantic UI-based form design and display.
+# Developer's Guide
 
 ## Backend System
 
