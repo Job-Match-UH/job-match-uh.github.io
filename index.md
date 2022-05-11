@@ -1,6 +1,6 @@
 ![ci-badge](https://github.com/Job-Match-UH/source/workflows/ci-Job-Match-UH/badge.svg)
 
-## Table of contents
+# Table of contents
 
 * [Overview](#overview)
 * [Our Approach](#our-approach)
@@ -15,7 +15,7 @@
 * [Our Team](#our-team)
 * [Team Contract Google Doc](#team-contract)
 
-## Overview
+# Overview
 
 ### The problem
 Many UH computer science and engineering students want to learn about internship and job opportunities, but currently they must wait until a company decides to visit the campus or send out some sort of announcement. There is no efficient way for students to understand the “landscape” of internship and job opportunities that might be available in the future, so they can prepare for them now.
@@ -87,7 +87,7 @@ You can verify that the code obeys our coding standards by running ESLint over t
 meteor npm run lint
 ```
 
-## User Guide
+# User Guide
 
 These are the mockup pages that will be used for the final project.
 
