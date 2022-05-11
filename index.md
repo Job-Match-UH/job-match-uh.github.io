@@ -124,27 +124,27 @@ This is what our Project currently looks like. For now, we mainly focused on fix
 
 ### Landing Page
 
-<img class="ui large image" src="images/landing.png">
+<img class="ui large image" src="images/landing-final.png">
 
 ### Sign in / Sign up Page
 
-<img class="ui large image" src="images/signin-signup.png">
+<img class="ui large image" src="images/login-final.png">
 
 ### Create Student Profile
 
-<img class="ui large image" src="images/createstudentprofile.png">
+<img class="ui large image" src="images/create-student-profile-final.png">
 
 ### Create Company Profile
 
-<img class="ui large image" src="images/createcompanyprofile.png">
+<img class="ui large image" src="images/create-company-profile-final.png">
 
 ### Student Home Page
 
-<img class="ui large image" src="images/studenthomepage.png">
+<img class="ui large image" src="images/student-matches-final.png">
 
 ### Company Home Page
 
-<img class="ui large image" src="images/companyhomepage.png">
+<img class="ui large image" src="images/view-company-profile-final.png">
 
 ### Admin home page
 
@@ -152,11 +152,11 @@ This is what our Project currently looks like. For now, we mainly focused on fix
 
 ### Student Profile
 
-<img class="ui large image" src="images/studentprofilepage.png">
+<img class="ui large image" src="images/student-profile-final.png">
 
 ### Company Profile
 
-<img class="ui large image" src="images/companyprofilepage.png">
+<img class="ui large image" src="images/view-company-profile-final.png">
 
 ### Job Posting page
 
