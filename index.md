@@ -144,7 +144,7 @@ This is what our Project currently looks like. For now, we mainly focused on fix
 
 ### Company Home Page
 
-<img class="ui large image" src="images/view-company-home-page-final.png">
+<img class="ui large image" src="images/company-home-page-final.png">
 
 ### Admin home page
 
