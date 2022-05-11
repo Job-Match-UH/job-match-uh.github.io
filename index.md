@@ -257,19 +257,20 @@ We asked five UH community members for their opinions on our app. Here's what th
 Additionally, I personally like to work on smaller windows so I suggest making it more user friendly in that way. Resizing to a smaller window moved objects out of their spot or put them in a position that made them blocked by the footer. I think it’d also be helpful to include having a return button from search/edit. I have to use the back button in my browser to return to the previous which is kind of inconvenient. Adding on to that, I think it would be helpful that the site caches what the last searched interest was when returning from looking at companies/job positions. That way I won’t have to reclick my all my interests again. Or, the application can take the interests I’ve already inputted on my personal info and do an “apply my interests” type of checkbox/button."*
 
 #### Dylan Kira, Psychology major, said,
-- First impression: nice and not overwhelming
-- Maybe use a different font -- go for a cleaner look since your website is going for a simple theme
-- Regarding the required field for the project section: it's nice to put a project to showcase your skills but everyone may not have one
-- My Profile section: layout looks cool, especially the bottom-right section where you can edit your information
-- Was confused when I had to put my interest again under the View My Matches when I already did so when I created my profile
-- Company's contact info: a hyperlink that directs you to the company's email would be a nice feature
+
+- *First impression: nice and not overwhelming
+- *Maybe use a different font -- go for a cleaner look since your website is going for a simple theme
+- *Regarding the required field for the project section: it's nice to put a project to showcase your skills but everyone may not have one
+- *My Profile section: layout looks cool, especially the bottom-right section where you can edit your information
+- *Was confused when I had to put my interest again under the View My Matches when I already did so when I created my profile
+- *Company's contact info: a hyperlink that directs you to the company's email would be a nice feature
 
 #### Dalten Pang, Mechanical Engineering and Computer Science, said,
   *"The website works for the most part, with some minor hiccups here and there. The main thing was some of the tags breaking the website, from both account types - company and individual. An example is the Art tag when searching from the company perspective broke the website. With tags there was also the possibility to have duplicate interest tags if the same tags are added at separate times. There's also the minor inconvenience that the website logs you out after creating your profile, you'd ideally be put into the main page.*
 
   *Some small UI gripes including the misalignment of descriptions and headers in the about company page. The website of the companies leaves a gap between the name of the company and the website when searching from the Individual's perspective. The website link also sometimes sticks outside the container, as with Grace Pacific LCC. When adding phone numbers it would be a nice thing if it auto formatted.*
 
-  *Overall the website is nice and simple."*
+  *Overall the website is nice and simple. Could've been in Comic Sans"*
 
 ### M1 Project Page
 
