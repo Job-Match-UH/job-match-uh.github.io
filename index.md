@@ -256,6 +256,16 @@ We asked five UH community members for their opinions on our app. Here's what th
   *"I like this app. It did its job in matching the user to job suggestions so that in it of itself is a success. The program ask for a sufficient amount of information from the user in order to match them properly to potential employees. Everything but the interests seem a bit “unnecessary” in this elementary step of matching strictly to interests however. What is the rest of my information used for?
 Additionally, I personally like to work on smaller windows so I suggest making it more user friendly in that way. Resizing to a smaller window moved objects out of their spot or put them in a position that made them blocked by the footer. I think it’d also be helpful to include having a return button from search/edit. I have to use the back button in my browser to return to the previous which is kind of inconvenient. Adding on to that, I think it would be helpful that the site caches what the last searched interest was when returning from looking at companies/job positions. That way I won’t have to reclick my all my interests again. Or, the application can take the interests I’ve already inputted on my personal info and do an “apply my interests” type of checkbox/button."*
 
+#### Dylan Kira, Psychology major, said,
+*
+- First impression: nice and not overwhelming
+- Maybe use a different font -- go for a cleaner look since your website is going for a simple theme
+- Regarding the required field for the project section: it's nice to put a project to showcase your skills but everyone may not have one
+- My Profile section: layout looks cool, especially the bottom-right section where you can edit your information
+- Was confused when I had to put my interest again under the View My Matches when I already did so when I created my profile
+- Company's contact info: a hyperlink that directs you to the company's email would be a nice feature
+*
+
 ### M1 Project Page
 
 Click on [this link here](https://github.com/Job-Match-UH/source/projects/1) to view our Milestone 1 (M1) Project Page. This shows the issues that were completed for the milestone at this time. 
