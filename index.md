@@ -136,7 +136,7 @@ This is what our Project currently looks like. For now, we mainly focused on fix
 
 ### Register Company Account Page
 
-<img class="ui large image" src="images/resgister-company-final.png">
+<img class="ui large image" src="images/register-company-final.png">
 
 ### Create Student Profile
 
